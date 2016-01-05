@@ -1,0 +1,10 @@
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\bin\Debug\ControlEntityFrameowrk.Servicos.dll.config
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\bin\Debug\ControlEntityFrameowrk.Servicos.dll
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\bin\Debug\ControlEntityFrameowrk.Servicos.pdb
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\bin\Debug\EntityFramework.dll
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\bin\Debug\EntityFramework.xml
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.dll
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.pdb
+C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.csprojResolveAssemblyReference.cache

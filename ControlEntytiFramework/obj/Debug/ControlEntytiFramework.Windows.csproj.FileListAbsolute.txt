@@ -1,0 +1,17 @@
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\obj\Debug\ControlEntytiFramework.Form1.resources
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\obj\Debug\ControlEntytiFramework.Windows.Properties.Resources.resources
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\obj\Debug\ControlEntytiFramework.Windows.csproj.GenerateResource.Cache
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\ControlEntytiFramework.Windows.exe.config
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\ControlEntytiFramework.Windows.exe
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\ControlEntytiFramework.Windows.pdb
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\ControlEntityFrameowrk.Servicos.dll
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\EntityFramework.dll
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\ControlEntityFrameowrk.Servicos.pdb
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\EntityFramework.xml
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\obj\Debug\ControlEntytiFramework.Windows.csprojResolveAssemblyReference.cache
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\obj\Debug\ControlEntytiFramework.Windows.exe
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\obj\Debug\ControlEntytiFramework.Windows.pdb
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\ControlEntityFramework.Data.dll
+C:\Pessoal\ControlEntytiFramework\ControlEntytiFramework\bin\Debug\ControlEntityFramework.Data.pdb
