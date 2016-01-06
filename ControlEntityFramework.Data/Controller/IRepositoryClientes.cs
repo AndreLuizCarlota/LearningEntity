@@ -3,19 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ControlEntityFramework.Servicos.Data;
 using ControlEntityFrameowrk.Servicos.Classes;
-using ControlEntityFramework.Data.IRepository;
-using ControlEntityFramework.Data.Data;
+using System.Data.Entity;
 
 namespace ControlEntityFramework.Data.Controller
 {
   public class IRepositoryClientes : IRepository<Clientes>
   {
-    Contexto context = new Contexto();
+
+    Contexto context;
 
     public IUnitOfWork Session
     {
-      get { throw new NotImplementedException(); }
+      get
+      {
+        return null;
+      }
     }
 
     public IList<Clientes> GetAll()

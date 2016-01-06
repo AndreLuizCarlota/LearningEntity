@@ -1,11 +1,12 @@
-﻿using System;
+﻿using ControlEntityFrameowrk.Servicos.Classes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ControlEntityFrameowrk.Servicos.Classes
+namespace ControlEntityFramework.Servicos.Data
 {
   public interface IRepository<T> : IDisposable where T : class
   {

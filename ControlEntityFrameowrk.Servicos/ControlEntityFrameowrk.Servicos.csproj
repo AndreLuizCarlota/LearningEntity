@@ -51,10 +51,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="Classes\Conexao.cs" />
     <Compile Include="Classes\IRepository.cs" />
     <Compile Include="Classes\IUnitOfWork.cs" />
     <Compile Include="Classes\Repository.cs" />
+    <Compile Include="Data\Clientes.cs" />
+    <Compile Include="Data\Contexto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

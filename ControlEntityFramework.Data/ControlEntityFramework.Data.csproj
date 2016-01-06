@@ -48,20 +48,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
-    <Compile Include="Data\Clientes.cs" />
     <Compile Include="Controller\IRepositoryClientes.cs" />
-    <Compile Include="Data\Contexto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ControlEntityFrameowrk.Servicos\ControlEntityFrameowrk.Servicos.csproj">
       <Project>{95b6a0d0-2615-4120-b174-a4bc8c25c0c3}</Project>
       <Name>ControlEntityFrameowrk.Servicos</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

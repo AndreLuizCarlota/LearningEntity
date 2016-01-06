@@ -8,3 +8,13 @@ C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\bin\Debug\Enti
 C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.dll
 C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.pdb
 C:\Pessoal\ControlEntytiFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.csprojResolveAssemblyReference.cache
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\bin\Debug\ControlEntityFrameowrk.Servicos.dll.config
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\bin\Debug\ControlEntityFrameowrk.Servicos.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\bin\Debug\ControlEntityFrameowrk.Servicos.pdb
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\bin\Debug\EntityFramework.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\bin\Debug\EntityFramework.xml
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.csprojResolveAssemblyReference.cache
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFrameowrk.Servicos\obj\Debug\ControlEntityFrameowrk.Servicos.pdb

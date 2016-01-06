@@ -10,3 +10,15 @@ C:\Pessoal\ControlEntytiFramework\ControlEntityFramework.Data\obj\Debug\ControlE
 C:\Pessoal\ControlEntytiFramework\ControlEntityFramework.Data\bin\Debug\ControlEntityFramework.Data.dll.config
 C:\Pessoal\ControlEntytiFramework\ControlEntityFramework.Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\Pessoal\ControlEntytiFramework\ControlEntityFramework.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\ControlEntityFramework.Data.dll.config
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\ControlEntityFramework.Data.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\ControlEntityFramework.Data.pdb
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\ControlEntityFrameowrk.Servicos.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\ControlEntityFrameowrk.Servicos.pdb
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\obj\Debug\ControlEntityFramework.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\obj\Debug\ControlEntityFramework.Data.dll
+C:\Projetos\BitBucket\ControlEntityFramework\ControlEntityFramework.Data\obj\Debug\ControlEntityFramework.Data.pdb

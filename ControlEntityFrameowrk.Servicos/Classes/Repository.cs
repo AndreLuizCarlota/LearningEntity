@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ControlEntityFrameowrk.Servicos.Classes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data.Entity;
@@ -7,13 +8,17 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ControlEntityFrameowrk.Servicos.Classes
+namespace ControlEntityFramework.Servicos.Data
 {
-  public class Repository<T>
+  public class Repository : DbContext
   {
 
-    protected DbContext session;
+    DbContext session;
+    Contexto con;
 
+    public Repository() : base("Contexto") {  }
+
+    
     public virtual DbContext Context
     {
       get
@@ -21,13 +26,7 @@ namespace ControlEntityFrameowrk.Servicos.Classes
         return session;
       }
     }
-
-    public Repository()
-    {
-      //session = new DbContext(Context.Database.Connection.ConnectionString = "Data Source=ASSUNCAOD2\SQLEXPRESS;Initial Catalog=CONTROLJOHANA;User Id=Assuncao;Password=246138Cal.;");
-      //SetSession(instance);
-    }
-
+    
     public IList<TEntity> GetAll<TEntity>() where TEntity : class
     {
       return session.Set<TEntity>().ToList();
@@ -96,25 +95,11 @@ namespace ControlEntityFrameowrk.Servicos.Classes
         throw new ArgumentNullException("A entidade não pode ser nula.");
       return true;
     }
-
-    public void SetSession(IUnitOfWork session)
-    {
-      SetUnitOfWork(session);
-    }
-
-    protected internal void SetUnitOfWork(IUnitOfWork session)
-    {
-      if (!(session is DbContext))
-        throw new ArgumentException("A instância IUnitOfWork deve um DbContext.");
-      SetDbContext(session as DbContext);
-    }
-
+    
     protected internal void SetDbContext(DbContext session)
     {
       if (session == null)
         throw new ArgumentNullException("DbContext: instance");
-      if (!(session is IUnitOfWork))
-        throw new ArgumentException("A instância DbContext deve implementar a interface IUnitOfWork.");
       this.session = session;
     }
   }

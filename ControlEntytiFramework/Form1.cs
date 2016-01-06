@@ -1,5 +1,4 @@
-﻿using ControlEntityFrameowrk.Servicos.Classes;
-using ControlEntityFramework.Data.IRepository;
+﻿using ControlEntityFramework.Servicos.Data;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -21,9 +20,9 @@ namespace ControlEntytiFramework
 
     private void Form1_Load(object sender, EventArgs e)
     {
-      Repository<Clientes> myReposotiry =  new Repository<Clientes>();
-
-      var x = myReposotiry.GetAll<Clientes>().ToList();
+      Repository myReposotiry = new Repository();
+      
+      var x =  myReposotiry.GetAll<Clientes>().ToList();
     }
   }
 }
